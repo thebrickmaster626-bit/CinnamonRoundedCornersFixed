@@ -81,7 +81,7 @@ window {
 
 ## Credits:
 
-Developed By: Kevin Langman
+Originally Developed By: Kevin Langman
 
 Tweak By: Salvatore Nicholson
 
