@@ -83,6 +83,12 @@ window {
 
 Developed By: Kevin Langman
 
+Tweak By: Salvatore Nicholson
+
+This project is a fork of [CinnamonRoundedCorners](https://github.com/klangman/CinnamonRoundedCorners), originally created by [Kevin Langman (@klangman)](https://github.com/klangman).
+
+All credit for the original extension and its development goes to Kevin. This fork builds upon his work with additional fixes and improvements, including a fix for shadow rendering at HiDPI display scaling (200%).
+
 The Rounded Corners effect code is borrowed from the Blur-My-Shell Gnome Extension.
 
 The Shadow shader is 100% Claude AI generated
